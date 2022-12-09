@@ -12,6 +12,7 @@ footer {
 a {
   margin: 0 10px;
   color: green;
+  cursor: pointer;
 }
 
 img {
@@ -19,4 +20,8 @@ img {
   display: block;
   border-radius: 10px;
   margin: 30px auto;
+}
+
+.contact-link {
+  color: blue;
 }
